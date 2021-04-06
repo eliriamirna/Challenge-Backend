@@ -1,8 +1,8 @@
-# Opa Box Backend
+# Backend
 
 ## O que é este projeto?
 
-Este projeto é uma aplicação em Node - express que atua como servidor da avaliação de código Opa Box.
+Este projeto é uma aplicação em Node - express que atua como servidor da avaliação de código.
 
 ## O que ele faz? 
 
